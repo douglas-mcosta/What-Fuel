@@ -10,3 +10,6 @@ Você pode gerar o apk desse projeto com o comando
 
 Eles tambem pode ser executado em um emulador android com o comando
 - flutter run
+
+## APP
+<img src="/assets/docs/print-app-01.jpeg" alt="home"/>
